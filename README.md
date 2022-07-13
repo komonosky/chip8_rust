@@ -14,15 +14,16 @@ cargo run path/to/game
 Some games are included in the chip8_frontend folder.
 
 The early computers that used CHIP-8 had a 16-key hexadecimal keypad with the following layout:
-
+```
 1	2	3	C
 4	5	6	D
 7	8	9	E
 A	0	B	F
-
+```
 I have mapped this to a modern QWERTY keyboard the following way:
-
+```
 1 2 3 4
 Q W E R
 A S D F
 Z X C V
+```
